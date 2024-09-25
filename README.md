@@ -1,2 +1,5 @@
-# Analysis of Large Datasets
-Lab assignments for Analysis of Large Datasets
+# Analysis of Massive Datasets – ID 222942
+
+### University of Zagreb – Faculty of Electrical Engineering and Computing
+
+Lab assignments for Analysis of Massive Datasets
